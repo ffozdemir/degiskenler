@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.exe
+C:\Users\Owner\Desktop\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.deps.json
+C:\Users\Owner\Desktop\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.json
+C:\Users\Owner\Desktop\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.dll
+C:\Users\Owner\Desktop\Pratikler\degiskenler\bin\Debug\net5.0\ref\degiskenler.dll
+C:\Users\Owner\Desktop\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.pdb
+C:\Users\Owner\Desktop\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.dll
+C:\Users\Owner\Desktop\Pratikler\degiskenler\obj\Debug\net5.0\ref\degiskenler.dll
+C:\Users\Owner\Desktop\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.pdb
+C:\Users\Owner\Desktop\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.genruntimeconfig.cache
